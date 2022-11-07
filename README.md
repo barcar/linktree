@@ -10,8 +10,8 @@
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnggli/linktree?color=04D361&labelColor=000000">
   
-  <a href="https://github.com/johnggli/linktree/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnggli/linktree?color=04D361&labelColor=000000">
+  <a href="https://github.com/barcar/parbury/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/barcar/parbury?color=04D361&labelColor=000000">
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo](https://johnggli.github.io/linktree)
+- [Demo](https://barcar.github.io/parbury)
 
 ## 🚀 Getting started
 
